@@ -1,0 +1,12 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est E4FA-6FCC
+
+ R‚pertoire de C:\Users\LATITUDE\Documents\scm
+
+26/05/2022  07:47    <REP>          .
+26/05/2022  07:47    <REP>          ..
+26/05/2022  07:36                87 main.c
+24/05/2022  05:24                23 readme.txt
+26/05/2022  07:47                 0 toto.txt
+               3 fichier(s)              110 octets
+               2 R‚p(s)  21ÿ191ÿ958ÿ528 octets libres
