@@ -1,5 +1,8 @@
 main()
 {
-  int i,p;
-  int j,k;
+ 
+  int i,p,zzzzzzzzzzz;
+  int j,k,yyyyyyyyyyy;
+  char a;
+  char b;
 }
