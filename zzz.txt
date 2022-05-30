@@ -1,0 +1,12 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est E4FA-6FCC
+
+ R‚pertoire de C:\Users\LATITUDE\Documents\scm
+
+30/05/2022  07:19    <REP>          .
+30/05/2022  07:19    <REP>          ..
+30/05/2022  07:17                38 main.c
+24/05/2022  05:24                23 readme.txt
+30/05/2022  07:19                 0 zzz.txt
+               3 fichier(s)               61 octets
+               2 R‚p(s)  25ÿ112ÿ281ÿ088 octets libres
